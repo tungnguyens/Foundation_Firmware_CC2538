@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\leds\projects\iar\leds_example.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\keys\projects\iar\keys_example.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\keys\projects\iar\keys_example_no_isr.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+

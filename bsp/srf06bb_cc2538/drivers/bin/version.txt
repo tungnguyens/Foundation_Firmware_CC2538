@@ -1,0 +1,3 @@
+$Revision: 10022 $ 
+ 
+This is version 1.3.1 of srf06bb_cc2538 BSP. 
