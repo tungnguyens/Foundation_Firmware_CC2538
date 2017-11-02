@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\accelerometer\projects\iar\acc_example.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\lightsensor\projects\iar\als_example.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\lcd\projects\iar\lcd_example.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\leds\projects\iar\leds_example.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\keys\projects\iar\keys_example.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\keys\projects\iar\keys_example_no_isr.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\sdcard\projects\iar\sdcard_example.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\uart\projects\iar\uart_example.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+
